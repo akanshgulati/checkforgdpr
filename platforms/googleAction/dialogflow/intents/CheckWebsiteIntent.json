@@ -1,0 +1,5 @@
+{
+	"name": "CheckWebsiteIntent",
+	"auto": true,
+	"webhookUsed": true
+}

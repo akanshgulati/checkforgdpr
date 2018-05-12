@@ -1,0 +1,17 @@
+{
+	"name": "WebsiteNameIsIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "website",
+					"value": "$website",
+					"dataType": "@sys.url"
+				}
+			]
+		}
+	]
+}
